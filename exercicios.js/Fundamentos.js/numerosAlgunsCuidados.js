@@ -1,0 +1,6 @@
+console.log(7/0)
+console.log('10'* 2)
+console.log('letra'*2)
+console.log(0.5*0.8)
+//console.log(10.tostring)
+console.log((4.284698).toFixed(2))
